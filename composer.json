@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Mage_GoogleTrustedStore",
+    "name": "OpenMageModuleFostering\/Mage_GoogleTrustedStore",
     "type": "magento-module",
     "license": "GPL",
     "homepage": "",
     "description": "Magento Integration with the Google Trusted Stores Program.",
     "authors": [
-    {
-        "name": "Magento",
-        "email": "Magento-GTS-Support@magento.com"
-    }
-],
+        {
+            "name": "Magento",
+            "email": "Magento-GTS-Support@magento.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
